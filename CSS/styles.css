@@ -125,7 +125,7 @@
 
 }
 
-.boddiv1 {
+.imagePlaceholderDiv {
   position: absolute;
   width: 1348px;
   height: 442px;
@@ -134,7 +134,7 @@
   background: #D9D9D9;
 }
 
-.imgP {
+.imagePlaceholder {
   position: absolute;
   width: 1246px;
   height: 361px;
